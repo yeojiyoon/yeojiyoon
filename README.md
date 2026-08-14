@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=blue&height=120&section=header&text=&fontSize=90&)
 
 ## Hi there! I'm Jiyoon👋
+경북대학교 BCMI lab 석사 1년차로 최적화이론과 컴퓨터비전 기반의 멀티모달 연구를 하고 있습니다. 
 
 ### Work experience 
 
@@ -9,9 +10,10 @@
 - (24.06) 정보처리기사 취득
 - (25.06 - 25.07) SW파일럿 수료
 - (25.07 - 25.08) 광명테크 인턴
+- (25.12 - 26.02) 혁신아카데미 로보틱스 과정 수료
 - (26.01) 코멘토 직무부트캠프 수료
 - (26.03 - 26.04) ARION 인턴
-- (2026) 경북대학교 BCMI lab 석사과정
+- (2026) 경북대학교 BCMI lab 석사과정 입학
 
 ### 
 ### 
