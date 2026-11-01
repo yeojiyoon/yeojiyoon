@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=blue&height=120&section=header&text=&fontSize=90&)
 
 ## Hi there! I'm Jiyoon👋
-경북대학교 BCMI lab 석사 1년차로 최적화이론과 컴퓨터비전 기반의 멀티모달 연구를 하고 있습니다. 
+경북대학교 CS / AI 석사과정 
 
 ### Work experience 
 
